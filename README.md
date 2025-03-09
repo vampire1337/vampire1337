@@ -1,33 +1,59 @@
 # 💫 About Me:
 
-Greetings! I am a passionate full-stack developer and freelancer. I am inspired by the latest technologies in IT and programming, constantly seeking fresh approaches to solving problems and implementing projects. Currently, I am deeply immersed in the world of artificial intelligence and LLMs (Large Language Models), developing tools and applications for working with them. I believe in the limitless possibilities that AI offers and have great ambitions in this field.<br><br>
+🇺🇸
+Greetings! I am a full-stack developer and freelancer. I am inspired by the latest technologies in IT and programming, constantly seeking fresh approaches to solving problems and implementing projects. Currently, I am deeply immersed in the world of artificial intelligence and LLMs (Large Language Models), developing tools and applications for working with them. I believe in the limitless possibilities that AI offers and have great ambitions in this field.<br><br>
 
 🔭 What I’m working on<br>
-Experimenting with LLMs and creating my own tools to simplify working with models<br>
-Developing web applications, from frontend to backend logic<br>
-Constantly improving my backend and frontend skills<br><br>
+🚀 Experimenting with LLMs and creating my own tools to simplify working with models<br>
+🖥️ Developing web applications, from frontend to backend logic<br>
+🤖 Automating workflows with n8n for seamless integrations and efficiency<br>
+📈 Constantly improving my backend and frontend skills<br><br>
 
 🤝 Looking for collaboration<br>
-Open to joint projects at the intersection of web development and artificial intelligence<br>
-Interested in open-source initiatives and ready to participate in developing new solutions<br><br>
+🤖 Open to joint projects at the intersection of web development and artificial intelligence<br>
+🌍 Interested in open-source initiatives and ready to participate in developing new solutions<br><br>
 
 💡 Seeking help with<br>
-Complex architectural challenges related to ML/AI<br>
-Expanding my network of like-minded AI and LLM enthusiasts<br><br>
+🏗️ Complex architectural challenges related to ML/AI<br>
+🔗 Expanding my network of like-minded AI and LLM enthusiasts<br><br>
 
 🌱 What I’m currently into<br>
-Implementing a project to integrate AI API providers into a unified interface<br>
-Exploring new libraries and frameworks to accelerate and simplify AI service development<br>
-Working on freelance projects<br><br>
+🔗 Implementing a project to integrate AI API providers into a unified interface<br>
+📚 Exploring new libraries and frameworks to accelerate and simplify AI service development<br>
+💼 Working on freelance projects<br><br>
 
 💬 Ask me about<br>
-Integrating AI models into web applications<br>
-The best tech stack for launching a full-stack project<br>
-Freelancing and remote collaboration<br><br>
+🧠 Integrating AI models into web applications<br>
+🛠️ The best tech stack for launching a full-stack project<br>
+🌍 Freelancing and remote collaboration<br><br>
 
 ----------------------------------------------------------------------------------------------------------------------------
-##RU 🇷🇺
-Приветствую! Я — увлечённый фулстек-разработчик-энтузиаст и фрилансер. Меня вдохновляют новейшие технологии в IT и программировании, и я постоянно ищу свежие подходы к решению задач и реализации проектов. В настоящее время активно погружаюсь в мир искусственного интеллекта и LLM (Large Language Models), разрабатываю инструменты и приложений для работы с ними. Я верю в безграничные возможности, которые открывает ИИ, и имею большие амбиции в этой сфере.<br><br>🔭 Чем занимаюсь<br>Экспериментирую с LLM и создаю собственные инструменты, упрощающие работу с моделями<br>Разрабатываю веб-приложения от клиентской части до серверной логики<br>Постоянно совершенствую навыки backend и frontend<br>🤝 Ищу сотрудничество<br>Открыт к совместным проектам на стыке web-разработки и искусственного интеллекта<br>Интересуюсь open-source инициативами и готов участвовать в разработке новых решений<br>💡 Ищу помощи с<br>Сложными архитектурными задачами, связанными с ML/ИИ<br>Расширением круга единомышленников, увлечённых ИИ и LLM<br>🌱 Чем увлечён сейчас<br>Реализую проект по интеграции ИИ API провайдеров  в единой оболочке<br>Изучаю новые библиотеки и фреймворки, чтобы ускорять и упрощать создание AI-сервисов<br>Выполняю заказы по фрилансу<br>💬 Спросите меня о<br>Внедрении AI-моделей в веб-приложения<br>Лучшем стеке технологий для старта фулстек-проекта<br>Фрилансе и кооперации на удалённой основе<br>
+🇷🇺
+Приветствую! Я — увлечённый фулстек-разработчик-энтузиаст и фрилансер. Меня вдохновляют новейшие технологии в IT и программировании, и я постоянно ищу свежие подходы к решению задач и реализации проектов. В настоящее время активно погружаюсь в мир искусственного интеллекта и LLM (Large Language Models), разрабатываю инструменты и приложения для работы с ними. Я верю в безграничные возможности, которые открывает ИИ, и имею большие амбиции в этой сфере.<br><br>
+
+🔭 Чем занимаюсь<br>
+🚀 Экспериментирую с LLM и создаю собственные инструменты, упрощающие работу с моделями<br>
+🖥️ Разрабатываю веб-приложения от клиентской части до серверной логики<br>
+🤖 Автоматизирую рабочие процессы с n8n для удобных интеграций и повышения эффективности<br>
+📈 Постоянно совершенствую навыки backend и frontend<br><br>
+
+🤝 Ищу сотрудничество<br>
+🤖 Открыт к совместным проектам на стыке web-разработки и искусственного интеллекта<br>
+🌍 Интересуюсь open-source инициативами и готов участвовать в разработке новых решений<br><br>
+
+💡 Ищу помощи с<br>
+🏗️ Сложными архитектурными задачами, связанными с ML/ИИ<br>
+🔗 Расширением круга единомышленников, увлечённых ИИ и LLM<br><br>
+
+🌱 Чем увлечён сейчас<br>
+🔗 Реализую проект по интеграции ИИ API провайдеров в единой оболочке<br>
+📚 Изучаю новые библиотеки и фреймворки, чтобы ускорять и упрощать создание AI-сервисов<br>
+💼 Выполняю заказы по фрилансу<br><br>
+
+💬 Спросите меня о<br>
+🧠 Внедрении AI-моделей в веб-приложения<br>
+🛠️ Лучшем стеке технологий для старта фулстек-проекта<br>
+🌍 Фрилансе и кооперации на удалённой основе<br><br>
 
 
 ## 🌐 Socials:
